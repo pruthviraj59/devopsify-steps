@@ -19,6 +19,8 @@ You built a Windows binary → mismatch → container crashes.
 13. 🔹 Why this is better
 You don’t need to type long docker run commands.
 Restart policy (unless-stopped) is built in.
+<img width="945" height="513" alt="image" src="https://github.com/user-attachments/assets/37daa103-fa7f-42f6-8dc9-a241050c278b" />
+
 You can easily scale services later (databases, caches, multiple containers).
 Great step towards production setups (Compose → Swarm → Kubernetes).
 14.then push the image to dockerhub (docker push imagename)
